@@ -68,9 +68,4 @@ Esta é uma API em desenvolvimento utilizando **Node.js** e **Express** para ger
 
 O servidor será iniciado e estará pronto para receber requisições.
 
-## Contribuição
-Se deseja contribuir com este projeto, sinta-se à vontade para abrir um pull request ou relatar problemas encontrados.
-
----
-Feito com ❤️ para os fãs da Champions League!
 
