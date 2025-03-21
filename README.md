@@ -51,7 +51,7 @@ Esta é uma API em desenvolvimento utilizando **Node.js** e **Express** para ger
 ## Como Iniciar o Projeto
 1. **Clone o repositório:**  
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/Ivan-Coelho/api-champions-league.git>
    ```
 2. **Acesse o diretório do projeto:**  
    ```bash
